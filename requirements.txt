@@ -1,0 +1,8 @@
+pydantic
+pydantic-settings
+google-genai
+aiosqlite
+aiohttp
+beautifulsoup4
+lxml
+python-ulid
